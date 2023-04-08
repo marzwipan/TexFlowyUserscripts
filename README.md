@@ -11,5 +11,5 @@
 
  Now use Jay's css script to apply the css stored in the file "Katex CSS.css" to your workflowy, across platforms. These are the fonts KateX needs to display LaTeX.
  Done!
- 
-  
+
+ ![Example](https://github.com/marzwipan/TexFlowyUserscripts/blob/main/LaTeXforWorkflowy_mobile.png) 
